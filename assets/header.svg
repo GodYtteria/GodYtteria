@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="180" viewBox="0 0 840 180" role="img" aria-labelledby="t"><title id="t">GodYtteria — game developer, white-hat hacker and ML systems engineer, taking things apart since 2011</title><style>.bg{fill:#f4f1ea}.fg{fill:#1a1a1a}.mu{fill:#5a5650}.ln{stroke:#1a1a1a}text{font-family:ui-monospace,Menlo,Consolas,monospace}@media (prefers-color-scheme:dark){.bg{fill:#151515}.fg{fill:#e8e4da}.mu{fill:#9a958b}.ln{stroke:#e8e4da}}</style>
+<rect class="bg" width="840" height="180" rx="6"/><rect class="ln" x="8" y="8" width="824" height="164" rx="4" fill="none" stroke-width="1.5"/>
+<text class="mu" x="36" y="52" font-size="14">$ whoami</text>
+<text class="fg" x="36" y="98" font-size="40" font-weight="700">GodYtteria</text>
+<text class="mu" x="36" y="132" font-size="16">game dev · white-hat · ML systems · since 2011</text>
+<rect class="fg" x="36" y="146" width="10" height="16"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>

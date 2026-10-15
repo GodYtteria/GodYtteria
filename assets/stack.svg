@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="250" viewBox="0 0 840 250" role="img" aria-labelledby="t"><title id="t">Stack: AI/ML systems (LLM inference, Vulkan, C++ SIMD), quant and math (trading bots, numpy, pandas, numba), product (Go, Python, TypeScript, SvelteKit, Flutter, game dev), ops and QA</title><style>.bg{fill:#f4f1ea}.fg{fill:#1a1a1a}.mu{fill:#5a5650}.ln{stroke:#1a1a1a}text{font-family:ui-monospace,Menlo,Consolas,monospace}@media (prefers-color-scheme:dark){.bg{fill:#151515}.fg{fill:#e8e4da}.mu{fill:#9a958b}.ln{stroke:#e8e4da}}</style>
+<rect class="bg" width="840" height="250" rx="6"/><rect class="ln" x="8" y="8" width="824" height="234" rx="4" fill="none" stroke-width="1.5"/>
+<text class="mu" x="32" y="44" font-size="14">$ cat stack.txt</text><line class="ln" x1="32" y1="58" x2="808" y2="58" stroke-dasharray="4 4"/>
+<text class="mu" x="32" y="88" font-size="12">AI / ML SYSTEMS</text>
+<text class="fg" x="32" y="116" font-size="12">LLM inference engines</text>
+<text class="fg" x="32" y="142" font-size="12">MoE · quantization · BF16</text>
+<text class="fg" x="32" y="168" font-size="12">Vulkan · GLSL compute</text>
+<text class="fg" x="32" y="194" font-size="12">C++ · AVX2 SIMD kernels</text>
+<text class="fg" x="32" y="220" font-size="12">LLM API servers</text>
+<text class="mu" x="228" y="88" font-size="12">QUANT / MATH</text>
+<text class="fg" x="228" y="116" font-size="12">trading bots since 2017</text>
+<text class="fg" x="228" y="142" font-size="12">numpy · pandas · numba</text>
+<text class="fg" x="228" y="168" font-size="12">TA-Lib · ccxt · DuckDB</text>
+<text class="fg" x="228" y="194" font-size="12">backtesting · signals</text>
+<text class="fg" x="228" y="220" font-size="12">linear algebra · stats</text>
+<text class="mu" x="424" y="88" font-size="12">PRODUCT</text>
+<text class="fg" x="424" y="116" font-size="12">Go · Python · TypeScript</text>
+<text class="fg" x="424" y="142" font-size="12">SvelteKit · Ghost/hbs</text>
+<text class="fg" x="424" y="168" font-size="12">Dart / Flutter mobile</text>
+<text class="fg" x="424" y="194" font-size="12">game dev since 2015</text>
+<text class="fg" x="424" y="220" font-size="12">PostgreSQL · Redis</text>
+<text class="mu" x="620" y="88" font-size="12">OPS / QA</text>
+<text class="fg" x="620" y="116" font-size="12">Docker · nginx</text>
+<text class="fg" x="620" y="142" font-size="12">Shell · PowerShell</text>
+<text class="fg" x="620" y="168" font-size="12">CI · deploy scripts</text>
+<text class="fg" x="620" y="194" font-size="12">testing · parity tests</text>
+<text class="fg" x="620" y="220" font-size="12">security · perf gates</text>
+</svg>
